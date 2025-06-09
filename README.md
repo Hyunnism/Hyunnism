@@ -1,8 +1,5 @@
 
-# 👋 Halo, saya Hyun Sae
-
-Selamat datang di profil GitHub saya! Saya adalah seorang pengembang web dengan minat besar di bidang teknologi, musik, gaming, dan pengembangan sistem keuangan.
-
+# 👋 Halo, saya Hyunnism
 ---
 
 ## 🖼️ Header
@@ -40,7 +37,6 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pengembang web dengan 
 ## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Hyunnism&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Hyunnism&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunnism&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
