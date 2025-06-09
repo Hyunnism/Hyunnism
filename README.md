@@ -7,7 +7,7 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pengembang web dengan 
 
 ## 🖼️ Header
 
-<img src="https://drive.google.com/file/d/1TCpKkEngNlWgjoexbpMIHeQzHOpgFjTJ/view?usp=sharing" alt="Header Image" />
+<img src="https://drive.google.com/file/d/1TCpKkEngNlWgjoexbpMIHeQzHOpgFjTJ/preview" alt="Header Image" />
 
 ---
 
