@@ -63,4 +63,4 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pengembang web dengan 
 
 ---
 
-Terima kasih sudah mampir ke profil saya! 🚀
+Terima kasih 🚀
